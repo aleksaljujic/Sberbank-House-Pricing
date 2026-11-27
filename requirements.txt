@@ -1,0 +1,19 @@
+# Obrada podataka
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Vizualizacija
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Modelovanje
+# (scikit-learn verzija mora da odgovara onoj kojom su sačuvani modeli u models/)
+scikit-learn==1.7.1
+xgboost==3.0.5
+lightgbm
+category_encoders
+joblib==1.4.2
+
+# Notebook okruženje
+jupyterlab
