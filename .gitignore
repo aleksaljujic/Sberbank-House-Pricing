@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+__MACOSX/
+
+# Stare verzije notebook-ova
+notebooks/old/

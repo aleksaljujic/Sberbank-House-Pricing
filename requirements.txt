@@ -1,21 +1,19 @@
+# Obrada podataka
 numpy==1.26.4
 pandas==2.2.2
-scikit-learn==1.7.1
 scipy==1.13.1
+
+# Vizualizacija
 matplotlib==3.9.2
 seaborn==0.13.2
-plotly==5.24.1  
-tensorflow==2.19.0
-torch==2.6.0
-xgboost==3.0.5
-nltk==3.9.1
-gensim==4.3.3
-transformers==4.45.1 
-fastapi==0.115.12
-uvicorn==0.34.0
-Flask==3.1.0
-requests==2.32.4
-joblib==1.4.2
-tqdm==4.66.5
-python-dotenv==1.0.1
 
+# Modelovanje
+# (scikit-learn verzija mora da odgovara onoj kojom su sačuvani modeli u models/)
+scikit-learn==1.7.1
+xgboost==3.0.5
+lightgbm
+category_encoders
+joblib==1.4.2
+
+# Notebook okruženje
+jupyterlab
